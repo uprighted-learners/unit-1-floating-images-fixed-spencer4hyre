@@ -1,0 +1,45 @@
+.body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+}
+
+#header {
+    border: 2px solid black;
+    margin: 50px;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    border: 2px solid black;
+    margin: 50px;
+    background-color: aliceblue;
+    display: flex;
+}
+
+#pgr {
+    display: flex;
+    font-size: large;
+    text-align: left;
+    float: inline-start;
+    margin-right: 10px;
+}
+
+#pgr2 {
+    display: flex;
+    font-size: larger;
+    float:inline-end;
+    margin-left: 10px;
+}
+
+#img1 {
+    display: block;
+    float: right;
+}
+
+#img2 {
+    display: block;
+    float: left;
+}
