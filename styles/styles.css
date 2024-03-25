@@ -19,7 +19,7 @@
     display: flex;
 }
 
-#pgr {
+#part1 {
     display: flex;
     font-size: large;
     text-align: left;
@@ -27,19 +27,10 @@
     margin-right: 10px;
 }
 
-#pgr2 {
+#part2 {
     display: flex;
     font-size: larger;
     float:inline-end;
     margin-left: 10px;
 }
 
-#img1 {
-    display: block;
-    float: right;
-}
-
-#img2 {
-    display: block;
-    float: left;
-}
