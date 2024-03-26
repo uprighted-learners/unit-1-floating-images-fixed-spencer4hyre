@@ -12,25 +12,27 @@
     justify-content: center;
 }
 
-.section {
+.section1 {
     border: 2px solid black;
     margin: 50px;
     background-color: aliceblue;
-    display: flex;
-    clear: both;
-}
-
-#part1 {
-    font-size: large;
-    text-align: left;
-    float: left;
-    margin-right: 10px;
-}
-
-#part2 {
-    font-size: larger;
-    text-align: right;
     float: right;
-    margin-left: 10px;
 }
+
+.section2 {
+    border: 2px solid black;
+    margin: 50px;
+    background-color: aliceblue;
+    float: left;
+}
+
+#img1 {
+    float: left;
+}
+
+#img2 {
+    float: right;
+}
+
+
 
