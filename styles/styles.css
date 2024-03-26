@@ -17,20 +17,20 @@
     margin: 50px;
     background-color: aliceblue;
     display: flex;
+    clear: both;
 }
 
 #part1 {
-    display: flex;
     font-size: large;
     text-align: left;
-    float: inline-start;
+    float: left;
     margin-right: 10px;
 }
 
 #part2 {
-    display: flex;
     font-size: larger;
-    float:inline-end;
+    text-align: right;
+    float: right;
     margin-left: 10px;
 }
 
